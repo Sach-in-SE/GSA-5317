@@ -1,41 +1,39 @@
-# Battle of Bands ft. Gemini Lyria — Certificate Page
+# 🚀 My Multi-Purpose Project Showcase
 
-A public webpage built for **Battle of Bands ft. Gemini Lyria**, a campus event hosted by **Sachin Kumar**, Google Gemini Student Ambassador 2026 (GID: 5317).
+Welcome to my DevOps and development playground! This repository serves as a live host for various independent projects, Linux learning notes, and frontend experiments. Each project or page listed below runs completely independently using GitHub Pages.
 
-This page serves as the destination for QR codes printed on event certificates. Scanning the QR takes participants here, where they can view event details and access their certificate via a linked Google Drive folder.
+---
 
-## 🔗 Live Page
+## 🌐 Live Project Dashboard
 
-> Add your hosted link here once deployed (e.g. GitHub Pages URL)
+Here is the quick access list to all my live pages. Simply click the links below to view the live work:
 
-## 📌 What's on this page
+Home Page link - https://sach-in-se.github.io/GSA-5317/
 
-- Host details — name, role, GID, college
-- Event overview — **Battle of Bands ft. Gemini Lyria**
-  - Form a band, generate a poster with Nano Banana, create an anthem with Lyria
-  - Live presentation and audience voting
-  - Prize: Google Pixel Buds 2a for the winning crew
-- **Certificate access button** linking to a public Google Drive folder
-- Social links — LinkedIn, GitHub, Instagram, Portfolio, WhatsApp community group
+*👉 **How to browse:** To add a new work, I just drop the HTML file here, and it instantly goes live at `https://github.ioyour-file-name.html`.*
 
-## 🛠️ Tech
+---
 
-Single-file static page — pure HTML + CSS, no build step or dependencies. Designed with a dark, Google/Gemini-branded aesthetic.
+## 🛠️ Tech Stack & Environment
+* **OS Environment:** Ubuntu (Windows Subsystem for Linux - WSL)
+* **Version Control:** Git & GitHub
+* **Hosting:** GitHub Pages
+* **Languages:** HTML5, CSS3, Shell Scripting
 
-## 📁 Files
+---
 
-| File | Purpose |
-|---|---|
-| `index.html` | The full webpage |
-| `sachin.jpg` | Host photo used in the hero section |
+## 📂 How to Clone and Run Locally
 
-## 🚀 Deploying (GitHub Pages)
+If you want to view or test these files on your local machine using WSL:
 
-1. Push `index.html` and `sachin.jpg` to this repo (same folder, root level).
-2. Go to **Settings → Pages**.
-3. Under **Source**, select the `main` branch and `/ (root)` folder.
-4. Save — your page will be live at `https://<username>.github.io/<repo-name>/`.
-5. Generate a QR code pointing to that URL and use it on certificates.
+```bash
+# Clone the repository
+git clone https://github.com
+
+
+---
+✍️ Maintained by **[Sach-in-SE](https://github.com)**. Happy Learning!
+
 
 ## 👤 Host
 
@@ -47,6 +45,4 @@ Samrat Vikramaditya Viswavidyalaya, Ujjain
 - GitHub: [Sach-in-SE](https://github.com/Sach-in-SE)
 - Portfolio: [sa-chin.dev](https://sa-chin.dev/)
 
----
 
-#TeamGemini
